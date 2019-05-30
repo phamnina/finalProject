@@ -6,7 +6,7 @@ AP Computer Science Reflection
 Name: Yaz and Nina
 Date: 05/30/19
  
-Write a short paragraph describing your project.  This should include the purpose of the program as well as how it works.
+(Write a short paragraph describing your project.  This should include the purpose of the program as well as how it works.)
 	Our project is a relaxing beach scene.In our program, we have clouds, palm trees, beach chairs and a moving crab. 	Right away when you run the program the sun sets. When you mouse press the program it changes from a sunset scene to day 	and the sun comes back up.
 	
 Describe the section of the program for which you had the main responsibility and briefly describe your successes and difficulties.  How did you overcome these problems?
