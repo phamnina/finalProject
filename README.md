@@ -8,6 +8,7 @@ Date: 05/30/19
  
 Write a short paragraph describing your project.  This should include the purpose of the program as well as how it works.
 	Our project is a relaxing beach scene. In our program, we have clouds, palm trees, beach chairs and a moving crab. Right away when you run the program the sun sets. When you mouse press the program it changes from a sunset scene to day and the sun comes back up.
+	
 Describe the section of the program for which you had the main responsibility and briefly describe your successes and difficulties.  How did you overcome these problems?
 Overall we worked together throughout the whole project. Some dificulties we had where when we set our backgronf to an ombre color, the sun and crab moved a lot slower than we wanted. Honestly, a big sucess for us was just getting it done. We did not expect our scene to look as good as it did, but we are very proud of our work.
 Write a short paragraph describing your group.  Topics to discuss include but are not limited to:  1) Group dynamics;   2) Group “leader”;   3) Give each member of your group a participation and effort percentage.  The total percentage will equal 100%.  Include your own effort; 4) Include any other information about your group that will help me award each member an equitable grade for the project.
