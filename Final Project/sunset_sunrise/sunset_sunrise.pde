@@ -46,6 +46,7 @@ void draw() {
   image(ball, 645, 400, 65, 65);
   image(pale, 35, 400, 50, 50);
 
+  
   if (move)
     crabX+=2;
   if (crabX==700)
